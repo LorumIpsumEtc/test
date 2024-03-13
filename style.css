@@ -4,3 +4,12 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
+body {
+  background: #9c1b0c;
+  color: black;
+}
+h1{
+  text-align: center;
+  margin: 100px auto 50px;
+}
+  
